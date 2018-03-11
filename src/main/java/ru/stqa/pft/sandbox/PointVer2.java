@@ -1,5 +1,4 @@
 package ru.stqa.pft.sandbox;
-import java.awt.*;
 
 public class PointVer2 {
 
